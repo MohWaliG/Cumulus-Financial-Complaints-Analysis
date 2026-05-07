@@ -2,11 +2,6 @@
 
 > An interactive Excel + Power Pivot capstone project analysing **71,146 CFPB consumer complaint records (2011–2020)** to surface dispute drivers, product-level risk, and resolution-quality gaps for **Cumulus Financial**.
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power Pivot](https://img.shields.io/badge/Power%20Pivot-F2C811?style=flat&logo=microsoft&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-376C2D?style=flat&logo=microsoft&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
 
 ---
 
@@ -217,7 +212,7 @@ Project completed under: **The Data Immersed (TDI) — Sapphire Cohort Excel Cap
 
 🔗 **Connect:**
 
-- LinkedIn: [Wali Mohammed](https://linkedin.com/in/wali-mohammed-544206370)
+- LinkedIn: www.linkedin.com/in/wali-mohammed-544206370
 - X (Twitter): [@MohdWaliGalkaye](https://x.com/MohdWaliGalkaye)
 
 ---
