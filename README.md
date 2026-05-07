@@ -212,9 +212,9 @@ Project completed under: **The Data Immersed (TDI) — Sapphire Cohort Excel Cap
 
 🔗 **Connect:**
 
-- GitHub: @MohWaliG
-- LinkedIn: Wali Mohammed
-- X (Twitter): @MohdWaliGalkaye
+- GitHub: [@MohWaliG](https://github.com/MohWaliG)
+- LinkedIn: [Wali Mohammed](https://linkedin.com/in/wali-mohammed-544206370)
+- X (Twitter): [@MohdWaliGalkaye](https://x.com/MohdWaliGalkaye)
 
 ---
 
